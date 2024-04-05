@@ -2,6 +2,8 @@
 Repository for OLS Nebula Cohort 1 project
 
 ## Welcome
+Our project is to 
+
 ## Table of Contents 
 ## What are we doing 
 ### The problem 

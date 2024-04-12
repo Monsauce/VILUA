@@ -32,11 +32,11 @@ Using codes and AI technology we can research open data to map the risks human r
 
 ## Who are we 
 
-We are a team of three Public Defenders from Brazil mentored by Monica Granados during OLS Nebula Cohort.
+We are a team of three Federal Public Defenders from Brazil mentored by Monica Granados during OLS Nebula Cohort.
 
-Ana Luisa Zago de Moraes is PhD in Criminal Sciences. Has experience in the area of Law, with emphasis on Human Rights, Criminology, Criminal Procedural Law, Criminal Law and State Theory; in the area of Methodology of Higher Education; as well as in publishing and reviewing journals.Teaches international criminal law courses in lato sensu graduate courses and develops research on the following topics: migration policy, criminal policy and transitional justice.
+Ana Luisa Zago de Moraes is PhD in Criminal Sciences. She was the Director of Defense of Human Rights at the Human Rights Ministery of Brazil. At Public Defenders Office, she cofounded and coordinated the Working Group on Migration, Refugee, and Statelessness; the Ethics Human Rights and Artificial Intelligence research group. She teaches international criminal law courses in lato sensu graduate courses and develops research on the following topics: migration policy, criminal policy and transitional justice.
 
-Lutiana Valadares Fernandes Barbosa is a Federal Public Defender in Brazil. She is a postdoctoral researcher at UFMG.  Holds a Ph.D. in international law from the Federal University of Minas Gerais, an LL.M from PUC-MG, and an LL.M from Columbia University. She was the coordinator of the National Working Group on Migration, Refugee, and Statelessness at the Federal Public Defender´s Office and coordinated the Ethics Human Rights and Artificial Intelligence research group at the National School of the Federal Public Defender´s Office. She is currently a personal associate at the Inter-American Commission on Human Rights. Mother of 2.
+Lutiana Valadares Fernandes Barbosa is a postdoctoral researcher at UFMG.  Holds a Ph.D. in international law from the Federal University of Minas Gerais, an LL.M from PUC-MG, and an LL.M from Columbia University. She was the coordinator of the National Working Group on Migration, Refugee, and Statelessness at the Federal Public Defender´s Office and coordinated the Ethics Human Rights and Artificial Intelligence research group at the National School of the Federal Public Defender´s Office. She is currently a personal associate at the Inter-American Commission on Human Rights. Mother of 2.
 
 Viviane Ceolin Dallasta Del Grossi...
 

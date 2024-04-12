@@ -16,6 +16,11 @@ The project aims to involve initiatives from the UN B-Tech projects and the UN S
 
 ## What are we doing 
 
+We have collected data about violence against human rights defenders in Brazil: types of violence (attack, threats, murders, criminalization, delegitimization, physical assault, sexual harrassment and suicide), victims (sex, race, ethnic group, profession, advocacy theme), perpetrators and locations. 
+Based on this data, we are suggesting codes for searching on social media that may indicate geolocated threats creating alerts that can help prevent attacks. We are also developing a communication prototype between the platforms, social network users and the authorities.
+A major challenge is the objective definition of real risks, considering the spread of hate speech on networks, which is why the effectiveness of the project requires human action.
+At the same time, we are researching comparative law to define the possibilities of civil responsibility for platforms, including to ... legislative proposals in Brazil
+
 ### The problem 
 How to use open source to provide information to human rights  defenders on the levels of risk they are facing?
 
@@ -39,7 +44,9 @@ Viviane Ceolin Dallasta Del Grossi...
 
 ### References
 Lampropoulos, G.; Garzón, J.; Misra, S.; Siakas, K. The Role of Artificial Intelligence of Things in Achieving Sustainable Development Goals: State of the Art. Sensors 2024, 24, 1091. https://doi.org/ 10.3390/s24041091. 
-On the frontline: Violence against human rights defenders in Brazil 2019-2022 / edited by: Alane Luiza da Silva...[et al.]. – 1st. ed. -- Curitiba, PR: Terra de Direitos: Justiça Global, 2023. --
-(On the frontline; 4). Available in:  https://terradedireitos.org.br/nalinhadefrente/
-
+On the frontline: Violence against human rights defenders in Brazil 2019-2022 / edited by: Alane Luiza da Silva...[et al.]. – 1st. ed. -- Curitiba, PR: Terra de Direitos: Justiça Global, 2023. (On the frontline; 4). Available in:  https://terradedireitos.org.br/nalinhadefrente/
+<https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_pt>
+<https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package>
+“The DSA includes specific rules for very large online platforms and search engines. These are online platforms and intermediaries that have more than 45 million users per month in the EU. They must abide by the strictest obligations of the Act.”
+<https://digital-strategy.ec.europa.eu/en/policies/dsa-vlops>
  

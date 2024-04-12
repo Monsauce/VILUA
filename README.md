@@ -36,7 +36,7 @@ We are a team of three Public Defenders from Brazil mentored by Monica Granados 
 
 Ana Luisa Zago de Moraes is PhD in Criminal Sciences. Has experience in the area of Law, with emphasis on Human Rights, Criminology, Criminal Procedural Law, Criminal Law and State Theory; in the area of Methodology of Higher Education; as well as in publishing and reviewing journals.Teaches international criminal law courses in lato sensu graduate courses and develops research on the following topics: migration policy, criminal policy and transitional justice.
 
-Lutiana Valadares Fernandes Barbosa is PhD in... Defensora Pública Federal | Associate Personnel IACHR | Visiting researcher Georgetown University | Pós-doutoranda UFMG | Coordenadora do grupo de pesquisa EDHIA (Ética, Direitos Humanos e Inteligência Artificial) ENADPU
+Lutiana Valadares Fernandes Barbosa is a Federal Public Defender in Brazil. She is a postdoctoral researcher at UFMG.  Holds a Ph.D. in international law from the Federal University of Minas Gerais, an LL.M from PUC-MG, and an LL.M from Columbia University. She was the coordinator of the National Working Group on Migration, Refugee, and Statelessness at the Federal Public Defender´s Office and coordinated the Ethics Human Rights and Artificial Intelligence research group at the National School of the Federal Public Defender´s Office. She is currently a personal associate at the Inter-American Commission on Human Rights. Mother of 2.
 
 Viviane Ceolin Dallasta Del Grossi...
 

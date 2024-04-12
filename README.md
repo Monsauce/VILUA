@@ -24,7 +24,16 @@ Using codes and AI technology we can research open data to map the risks human r
 
 ### What we are working on 
 
+
 ## Who are we 
+
+We are a team of three Public Defenders from Brazil mentored by Monica Granados during OLS Nebula Cohort.
+
+Ana Luisa Zago de Moraes is PhD in Criminal Sciences. Has experience in the area of Law, with emphasis on Human Rights, Criminology, Criminal Procedural Law, Criminal Law and State Theory; in the area of Methodology of Higher Education; as well as in publishing and reviewing journals.Teaches international criminal law courses in lato sensu graduate courses and develops research on the following topics: migration policy, criminal policy and transitional justice.
+
+Lutiana Valadares Fernandes Barbosa is PhD in... Defensora Pública Federal | Associate Personnel IACHR | Visiting researcher Georgetown University | Pós-doutoranda UFMG | Coordenadora do grupo de pesquisa EDHIA (Ética, Direitos Humanos e Inteligência Artificial) ENADPU
+
+Viviane Ceolin Dallasta Del Grossi...
 
 ## What do we need
 
